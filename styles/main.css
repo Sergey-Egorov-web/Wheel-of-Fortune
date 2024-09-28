@@ -1,0 +1,54 @@
+body {
+  width: 1920px;
+  font-family: "Manrope", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 50px;
+  margin: 0 auto;
+  letter-spacing: -0.03em;
+  background-color: #ffffff;
+}
+
+.main {
+  margin: 50px auto;
+  font-size: 30px;
+  width: 1500px;
+}
+
+.introduction {
+  border-style: solid;
+  border: 4px double black;
+  width: 1500px;
+  height: 200px;
+  margin: 100px auto;
+  font-size: 50px;
+  background-color: rgb(188, 127, 240);
+}
+
+h1 {
+  width: 1200px;
+  margin: 0 auto;
+  font-size: 50px;
+}
+
+h2 {
+  width: 1800px;
+  margin: 0 auto;
+  padding: 50px;
+}
+button {
+  margin-top: 10px;
+  width: 100px;
+  height: 35px;
+  font-size: 20px;
+}
+input {
+  height: 30px;
+}
+p {
+  height: 20px;
+}
+
+output {
+  height: 30px;
+}
